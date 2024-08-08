@@ -1,0 +1,186 @@
+{
+  "home": "Startseite",
+  "about": "Über uns",
+  "services": "Unsere Dienstleistungen",
+  "courses": "Unsere Kurse",
+  "contact": "Kontakt",
+  "contactPage": {
+    "title": "KONTAKT",
+    "description": "Für weitere Informationen über unsere Sprachschule, Anmeldungen oder andere Fragen können Sie uns kontaktieren. Wir freuen uns, Ihnen so schnell wie möglich zu antworten.",
+    "email": "E-Mail",
+    "emailAddress": "almandilakademisi@gmail.com",
+    "location": "Standort",
+    "locationAddress": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "phone": "Telefon",
+    "phoneNumber": "+90 552 900 01 01"
+  },
+  "homePage": {
+    "whoWeAre": {
+      "title": "Wer sind wir?",
+      "description": "Das Deutsch Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen aus, darunter Visaberatung, Beratung für das Studium im Ausland, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
+      "buttonText": "Über uns",
+      "altText": "Über uns"
+    },
+    "careerSupport": {
+      "title": "Unterstützen Sie Ihre Karriere mit der Deutsch Akademie",
+      "description": "Als Deutsch Akademie sind wir überall dort, wo Sie sind, mit Visaberatung, Beratung für das Studium im Ausland, Dolmetschen und betrieblichen Schulungen. Mit unserem hybriden Bildungsmodell bieten wir die langjährige Erfahrung der Sprachschule in Deutschland sowohl vor Ort als auch online an.",
+      "buttonText": "Unsere Dienstleistungen",
+      "altText": "Karriere Unterstützung"
+    },
+    "serviceCards": {
+      "education": {
+        "title": "Bildung in Deutschland",
+        "description": "In Deutschland erwarten Sie hochwertige Bildungschancen und ein kulturell reichhaltiges Lernerlebnis.",
+        "altText": "Bildung"
+      },
+      "germanLessons": {
+        "title": "Deutschkurse",
+        "description": "Unsere Deutschkurse ermöglichen es Ihnen, Ihre Sprachfähigkeiten interaktiv und unter Anleitung erfahrener Lehrer zu verbessern.",
+        "altText": "Deutschkurse"
+      },
+      "consulting": {
+        "title": "Beratungsdienste",
+        "description": "Wir bieten professionelle Unterstützung bei Ihrer Ansiedlung, Ausbildung und Visaprozeduren in Deutschland.",
+        "altText": "Beratung"
+      }
+    },
+    "exploreCourses": {
+      "title": "Entdecken Sie unsere Kurse",
+      "description": "Entdecken Sie unsere Kurse, um Deutsch zu lernen oder Ihre Sprachfähigkeiten zu verbessern. Wir bieten eine breite Palette von Kursen von Anfängern bis zu fortgeschrittenen Niveaus an. Melden Sie sich noch heute an und machen Sie Fortschritte in Ihrer Sprache!",
+      "buttonText": "Unsere Kurse",
+      "altText": "Kurse entdecken"
+    }
+  },
+  "coursesPage": {
+    "heroImageAlt": "Bild über Kurse",
+    "title": "Unsere Kurse",
+    "description": "Die Deutsch Akademie bietet ein umfassendes Programm an Deutschkursen, das für alle gedacht ist, die die Sprache lernen möchten. Unsere Kurse reichen von Anfängern bis hin zu fortgeschrittenen Niveaus und konzentrieren sich auf Grammatik, Sprechpraxis, Lese- und Schreibfähigkeiten. Unsere erfahrenen Lehrer, interaktives Unterrichtsmaterial und kleine Klassengruppen schaffen eine effektive Lernumgebung. Neben der deutschen Sprache bieten unsere Kurse auch die Möglichkeit, etwas über die deutsche Kultur und Geschichte zu erfahren, sodass unsere Schüler den Lernprozess intensiv erleben können.",
+    "classSize": "Unsere Klassen bestehen aus 8-12 Personen",
+    "classType": "Wir bieten sowohl Präsenz- als auch Online-Kurse an",
+    "schedule": "Für die Termine können Sie uns kontaktieren",
+    "courseLevels": "Jeder Kurs ist in zwei Unterkurse unterteilt (z.B. A1.1 und A1.2)",
+    "course1": {
+      "title": "Deutsch A1 Kurs",
+      "description": "Kann einfache Kommunikation im Alltag führen, grundlegende Sätze und Ausdrücke verwenden, um sich auszudrücken. Kann einfache Fragen verstehen und beantworten. Kann einfache Informationen über Arbeit, Familie, Hobbys und andere Themen austauschen; einkaufen, in einem Restaurant bestellen und grundlegende Wegbeschreibung fragen.",
+      "altText": "Schülerbild"
+    },
+    "course2": {
+      "title": "Deutsch A2 Kurs",
+      "description": "Kann Sätze und häufig verwendete Ausdrücke in direkten Äußerungen verstehen. Ist in der Lage, sich über persönliche Informationen, Familie, Einkäufe, Arbeit und nähere Umgebung auszudrücken. Kann in einfachen und häufig vorkommenden Situationen kommunizieren. Kann in einfachen Ausdrücken angeben, woher man kommt, seine Ausbildung, Umgebung und konkrete Bedürfnisse beschreiben.",
+      "altText": "Schülerbild"
+    },
+    "course3": {
+      "title": "Deutsch B1 Kurs",
+      "description": "Kann die wesentlichen Punkte in Themen wie Arbeit, Schule und Freizeit verstehen. Kann mit Situationen in deutschsprachigen Ländern umgehen. Kann sich in seinen Interessengebieten einfach ausdrücken. Kann Erfahrungen, Träume und Ziele beschreiben.",
+      "altText": "Schülerbild"
+    },
+    "course4": {
+      "title": "Deutsch B2 Kurs",
+      "description": "Kann schwierige Texte zu konkreten und abstrakten Themen verstehen, Diskussionen in seinem Fachgebiet folgen. Kann flüssige Gespräche mit deutschen Muttersprachlern führen. Kann sich zu umfassenden Themen klar ausdrücken, aktuelle Themen kommentieren und die Vor- und Nachteile von Möglichkeiten darlegen.",
+      "altText": "Schülerbild"
+    },
+    "course5": {
+      "title": "Deutsch C1 Kurs",
+      "description": "Kann lange und komplexe Texte verstehen und daraus Schlussfolgerungen ziehen. Kann sich fließend und natürlich ausdrücken, ohne nach Wörtern suchen zu müssen. Kann die Sprache flexibel und effektiv im sozialen Leben, Beruf und Studium verwenden. Kann sich systematisch und präzise zu komplexen Themen ausdrücken.",
+      "altText": "Schülerbild"
+    },
+    "course6": {
+      "title": "Deutsch C2 Kurs",
+      "description": "Kann alles, was er liest und hört, mühelos verstehen. Kann Informationen zusammenfassen und begründen und erklären. Kann sich sehr fließend und detailliert ausdrücken, selbst in komplexen Situationen präzise darstellen.",
+      "altText": "Schülerbild"
+    }
+  },
+  "servicesPage": {
+    "heroImageAlt": "Bild über Dienstleistungen",
+    "title": "Unsere Dienstleistungen",
+    "description": "Als Sprachschule bieten wir Ihnen den Schlüssel zur globalen Kommunikation. Mit jahrelanger Erfahrung und einem erfahrenen Team streben wir danach, Ihnen die beste Sprachausbildung zu bieten. Unsere Dienstleistungen sind sorgfältig gestaltet, um Ihren Lernprozess so effizient und effektiv wie möglich zu gestalten. Darüber hinaus bieten wir umfassende Beratungsdienste für Studierende an, die in Deutschland ein Bachelorstudium aufnehmen möchten. Wir bieten fachkundige Beratung bei der Wahl der richtigen Universität und des richtigen Studiengangs, bei Bewerbungsprozessen und Zulassungsvoraussetzungen und begleiten Sie in jedem Schritt Ihrer Bildungsreise. Wir erleichtern den Prozess auch durch Visa-Angelegenheiten, Dolmetschdienste und Auslandsausbildung Beratung.",
+    "jobOpportunities": {
+      "title": "Arbeitsmöglichkeiten in Deutschland",
+      "description": "Wir bieten umfassende Beratungsdienste für Studierende an, die in Deutschland ein Bachelorstudium aufnehmen möchten. Wir bieten fachkundige Beratung bei der Wahl der richtigen Universität und des richtigen Studiengangs, bei Bewerbungsprozessen und Zulassungsvoraussetzungen und begleiten Sie in jedem Schritt Ihrer Bildungsreise."
+    },
+    "languageSchool": {
+      "title": "Sprache Schule in Deutschland",
+      "description": "Ein Sprachkurs im Ausland bietet Ihnen die Gelegenheit, die Sprache zu leben. Es ermöglicht nicht nur das Verstehen der Grammatik und Regeln der Sprache, sondern auch das Eintauchen in die Kultur der Sprache. Sie können das theoretische Wissen, das Sie in der Schule erworben haben, durch das Kennenlernen neuer Menschen, das Entdecken neuer Orte und das praktische Anwenden erweitern. Wir arbeiten als Partner einer renommierten Sprachschule in Deutschland."
+    },
+    "studyAbroadConsulting": {
+      "title": "Beratung für Studienaufenthalte im Ausland",
+      "description": "Wir bieten umfassende Beratungsdienste für Studierende an, die in Deutschland ein Bachelorstudium aufnehmen möchten. Wir bieten fachkundige Beratung bei der Wahl der richtigen Universität und des richtigen Studiengangs, bei Bewerbungsprozessen und Zulassungsvoraussetzungen und begleiten Sie in jedem Schritt Ihrer Bildungsreise."
+    },
+    "visaConsulting": {
+      "title": "Visaberatung",
+      "description": "Alle Arten von Visa-Angelegenheiten (Familienzusammenführung, Studienvisum, Arbeitsvisum usw.) werden sorgfältig von unseren professionellen Visa-Beratern verwaltet. Wir bieten vollständige Unterstützung im Visumantragsprozess und begleiten Sie in allen Phasen des Antragsverfahrens."
+    },
+    "summerCamp": {
+      "title": "Sommercamp in Deutschland",
+      "description": "Der effektivste Weg, Ihre Deutschkenntnisse zu verbessern, ist es, im Herkunftsland der Sprache zu lernen. Unser Sommercamp findet in Städten Deutschlands statt, die reich an kulturellen Besonderheiten sind, und wird von Muttersprachlern durchgeführt. Sie werden sowohl Ihre Sprachkenntnisse verbessern als auch einen unvergesslichen Sommerurlaub erleben."
+    },
+    "translation": {
+      "title": "Übersetzungsdienst",
+      "description": "Unsere erfahrenen und professionellen vereidigten Übersetzer bieten Übersetzungen aller offiziellen Dokumente von Deutsch auf Türkisch und von Türkisch auf Deutsch an. Diese werden in Zusammenarbeit mit allen Notaren in Aydın durchgeführt."
+    }
+  },
+  "aboutPage": {
+    "heroImageAlt": "Über uns Bild",
+    "title": "ÜBER UNS",
+    "description": "Wir sind eine Institution, die Vorbereitungskurse für akademische Sprachprüfungen in Deutsch mit erfahrenen Fachlehrern anbietet. Wir legen großen Wert auf die Qualität und Erfahrung unserer Lehrer. Unsere Kurse werden mit aktuellen, digital integrierten Ressourcen durchgeführt, und wir bieten unseren Schülern umfassende Einzelstudienressourcen und persönliches Feedback. Wir legen großen Wert auf Ethik und bieten transparente Informationen über Sprachstufen und Kursgebühren. Wir bieten sowohl Präsenz- als auch Online-Unterricht an.",
+    "whyUs": {
+      "title": "Warum Wir?",
+      "description": "Wir bieten Ihnen das beste Erlebnis auf Ihrer Reise, Deutsch zu lernen. Mit unseren erfahrenen Lehrern, effektiven Lehrmethoden und umfassender Unterstützung sind wir hier, um Ihnen zum Erfolg zu verhelfen.",
+      "expertTeam": {
+        "label": "Expertenteam:",
+        "description": "Unsere erfahrenen Lehrer begleiten Sie, um Deutsch auf die effektivste und verständlichste Weise zu lernen."
+      },
+      "flexiblePrograms": {
+        "label": "Flexible Programme:",
+        "description": "Wir bieten Programme, die auf Ihre persönlichen Bedürfnisse und Lernzeiten abgestimmt sind, mit Kursoptionen für jedes Niveau. Lernen Sie ganz nach Ihren Wünschen, sowohl online als auch in Präsenz."
+      },
+      "comprehensiveSupport": {
+        "label": "Umfassende Unterstützung:",
+        "description": "Mit unserer Visa-Beratung und Übersetzungsdiensten helfen wir Ihnen, alle Herausforderungen bei der Ansiedlung und dem Studium in Deutschland zu meistern."
+      }
+    },
+    "additionalImageAlt": "Über uns zweite Bild"
+  },
+  "hero": {
+    "title": "Der Beste Deutschkurs in Aydın",
+    "description": "Verbessern Sie Ihre Sprachkenntnisse mit professionellen Lehrern. Wir unterstützen Sie bei Ihrem Aufenthalt und Ihrer Ausbildung in Deutschland!",
+    "contactButton": "Kontaktieren Sie uns!",
+    "arrowAlt": "Pfeil",
+    "heroImgAlt": "Held Bild"
+  },
+  "contactUs": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Sie können das Formular auf der linken Seite verwenden, um uns Ihre Nachricht zu senden, oder Sie können uns über die folgenden Kontaktdaten erreichen.",
+    "phone": "+90 552 900 01 01",
+    "email": "almandilakademisi@gmail.com",
+    "address": "Mimar Sinan, 2310. Sk. Nr. 2, 09100 Efeler/Aydın",
+    "contactImageAlt": "Kontaktbild",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "emailLabel": "E-Mail",
+    "message": "Ihre Nachricht",
+    "formSuccess": "Ihre Nachricht wurde erfolgreich gesendet.",
+    "formError": "Beim Senden der Nachricht ist ein Fehler aufgetreten.",
+    "submitButton": "Senden"
+  },
+  "counter": {
+    "studentsCertified": "Studenten haben ein Zertifikat erhalten",
+    "employedInGermany": "Personen wurden in Deutschland beschäftigt",
+    "universitiesInGermany": "Studenten gingen an Universitäten in Deutschland",
+    "summerCampInGermany": "Personen gingen zu einem Sommersprachcamp in Deutschland"
+  },
+  "footer": {
+    "logoAlt": "Deutsch Sprachakademie",
+    "followUs": "Folgen Sie uns auf unseren sozialen Medien!",
+    "links": "Links",
+    "about": "Über uns",
+    "services": "Unsere Dienstleistungen",
+    "courses": "Unsere Kurse",
+    "contact": "Kontakt",
+    "phone": "+90 552 900 01 01",
+    "email": "almandilakademisi@gmail.com",
+    "address": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "copyright": "Urheberrecht ©",
+    "companyName": "Deutsch Sprachakademie"
+  }
+}
