@@ -69,20 +69,20 @@ const Footer = () => {
               </ul>
             </div>
             <div className="flex flex-col mb-10 lg:w-6/12 w-full items-center lg:items-start">
-              <span className="block text-text text-lg font-semibold mb-10 lg:mb-5">
+              <span className="block text-text text-lg font-semibold mb-5">
                 {t("footer.contact")}
               </span>
               <ul className="list-unstyled space-y-4">
-                <li className="flex items-center space-x-3">
-                  <FaPhone className="text-xl" />
+                <li className="flex items-center justify-center lg:justify-start space-x-3">
+                  <FaPhone className="text-xl hidden lg:block" />
                   <p className="text-gray-500">{t("footer.phone")}</p>
                 </li>
-                <li className="flex items-center space-x-3">
-                  <IoMailSharp className="text-xl" />
+                <li className="flex items-center justify-center lg:justify-start space-x-3">
+                  <IoMailSharp className="text-xl hidden lg:block" />
                   <p className="text-gray-500">{t("footer.email")}</p>
                 </li>
-                <li className="flex items-center space-x-3">
-                  <IoLocationSharp className="text-2xl lg:text-3xl" />
+                <li className="flex items-center justify-center lg:justify-start space-x-3">
+                  <IoLocationSharp className="text-3xl hidden lg:block" />
                   <p className="text-gray-500">{t("footer.address")}</p>
                 </li>
               </ul>

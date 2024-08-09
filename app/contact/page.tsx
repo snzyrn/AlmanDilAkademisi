@@ -30,7 +30,7 @@ const Page = () => {
         </div>
       </FadeUp>
       <main className="flex-grow p-4">
-        <div className="text-gray-500 text-lg 2xl:text-xl text-center mt-10 px-24">
+        <div className="text-gray-500 text-lg 2xl:text-xl text-center mt-10 px-4 md:px-24">
           <p>{t("contactPage.description")}</p>
         </div>
         <FadeUp className="flex justify-center lg:flex-row flex-col gap-20 mt-28 mb-28">

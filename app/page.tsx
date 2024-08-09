@@ -73,7 +73,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <FadeUp className="mx-24 lg:mb-20 lg:mt-20 flex lg:flex-row flex-col justify-center items-center">
+        <FadeUp className="mx-10 lg:mx-24 lg:mb-20 lg:mt-20 flex lg:flex-row flex-col justify-center items-center">
           <div className="lg:w-1/2 w-full lg:mr-12 2xl:w-5/12">
             <h2 className="text-text font-medium text-5xl mb-5 lg:mt-12 mt-5">
               {t("homePage.whoWeAre.title")}
@@ -97,7 +97,7 @@ export default function Home() {
           />
         </FadeUp>
         <CounterWidget />
-        <FadeUp className="mx-24 flex lg:flex-row flex-col justify-center items-center">
+        <FadeUp className="mx-10 lg:mx-24 flex lg:flex-row flex-col justify-center items-center">
           <Image
             src={Student}
             alt={t("homePage.careerSupport.altText")}
@@ -122,7 +122,7 @@ export default function Home() {
         </FadeUp>
 
         <div className="flex lg:flex-row flex-col lg:items-stretch items-center justify-center p-10 gap-16 2xl:gap-20 2xl:py-20 bg-gray-50 px-5">
-          <div className="flex flex-col items-center justify-center bg-white rounded-xl lg:w-1/4 2xl:w-1/6 w-1/2 py-10 p-5">
+          <div className="flex flex-col items-center justify-center bg-white rounded-xl w-full lg:w-1/4 2xl:w-1/6 py-10 p-5">
             <Image
               src={Education}
               alt={t("homePage.serviceCards.education.altText")}
@@ -130,14 +130,14 @@ export default function Home() {
               height={50}
               className="mb-3"
             />
-            <h3 className="text-text text-xl font-medium 2xl:text-2xl">
+            <h3 className="text-text text-xl text-center lg:text-start font-medium 2xl:text-2xl">
               {t("homePage.serviceCards.education.title")}
             </h3>
             <p className="text-gray-500 text-center mt-2">
               {t("homePage.serviceCards.education.description")}
             </p>
           </div>
-          <div className="flex flex-col items-center justify-center bg-white rounded-xl lg:w-1/4 2xl:w-1/6 w-1/2 py-10 p-5">
+          <div className="flex flex-col items-center justify-center bg-white rounded-xl w-full lg:w-1/4 2xl:w-1/6 py-10 p-5">
             <Image
               src={Book}
               alt={t("homePage.serviceCards.germanLessons.altText")}
@@ -145,14 +145,14 @@ export default function Home() {
               height={50}
               className="mb-3"
             />
-            <h3 className="text-text text-xl 2xl:text-2xl font-medium">
+            <h3 className="text-text text-center lg:text-start text-xl 2xl:text-2xl font-medium">
               {t("homePage.serviceCards.germanLessons.title")}
             </h3>
             <p className="text-gray-500 text-center mt-2">
               {t("homePage.serviceCards.germanLessons.description")}
             </p>
           </div>
-          <div className="flex flex-col items-center justify-center bg-white rounded-xl lg:w-1/4 2xl:w-1/6 w-1/2 py-10 p-5">
+          <div className="flex flex-col items-center justify-center bg-white rounded-xl w-full lg:w-1/4 2xl:w-1/6 py-10 p-5">
             <Image
               src={Document}
               alt={t("homePage.serviceCards.consulting.altText")}
@@ -160,7 +160,7 @@ export default function Home() {
               height={50}
               className="mb-3"
             />
-            <h3 className="text-text text-xl 2xl:text-2xl font-medium">
+            <h3 className="text-text text-xl text-center lg:text-start 2xl:text-2xl font-medium">
               {t("homePage.serviceCards.consulting.title")}
             </h3>
             <p className="text-gray-500 text-center mt-2">
@@ -168,7 +168,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <FadeUp className="mx-24 lg:mt-20 flex lg:flex-row flex-col justify-center items-center">
+        <FadeUp className="mx-10 lg:mx-24 lg:mt-20 flex lg:flex-row flex-col justify-center items-center">
           <div className="lg:w-1/2 w-full lg:mr-12 2xl:w-5/12 mt-12">
             <h2 className="text-text font-medium text-5xl mb-5 mt-12">
               {t("homePage.exploreCourses.title")}
