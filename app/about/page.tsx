@@ -38,9 +38,9 @@ const Page = () => {
             <p className="text-gray-500 text-base sm:text-lg md:text-xl mt-4">
               {t("aboutPage.whyUs.description")}
             </p>
-            <div className="flex flex-col md:flex-row items-start gap-4 mt-4">
+            <div className="flex flex-col  items-start gap-4 mt-4">
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-2xl sm:text-3xl md:text-4xl" />
+                <FaRegCheckCircle className="text-green text-4xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.expertTeam.label")}
@@ -49,7 +49,7 @@ const Page = () => {
                 </p>
               </div>
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-2xl sm:text-3xl md:text-4xl" />
+                <FaRegCheckCircle className="text-green text-6xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.flexiblePrograms.label")}
@@ -58,7 +58,7 @@ const Page = () => {
                 </p>
               </div>
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-2xl sm:text-3xl md:text-4xl" />
+                <FaRegCheckCircle className="text-green text-5xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.comprehensiveSupport.label")}
