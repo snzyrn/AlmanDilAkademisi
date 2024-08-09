@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Contact from "../assets/contact-us.png";
-import { FaPhone } from "react-icons/fa6";
+import { FaPhone } from "react-icons/fa";
 import { IoMailSharp, IoLocationSharp } from "react-icons/io5";
 import { useTranslation } from "react-i18next";
 
@@ -39,7 +39,7 @@ const ContactUs = () => {
       });
 
       if (response.ok) {
-        setFormStatus(t('contactUs.formSuccess'));
+        setFormStatus(t("contactUs.formSuccess"));
         setFormData({
           firstName: "",
           lastName: "",
@@ -47,70 +47,62 @@ const ContactUs = () => {
           message: "",
         });
       } else {
-        setFormStatus(t('contactUs.formError'));
+        setFormStatus(t("contactUs.formError"));
       }
     } catch (error) {
       console.error("Fetch error:", error);
-      setFormStatus(t('contactUs.formError'));
+      setFormStatus(t("contactUs.formError"));
     }
   };
 
   return (
-    <div className="relative isolate bg-white mx-24 lg:my-36 rounded-lg 2xl:w-1/2">
-      <div className="mx-auto grid max-w-7xl grid-cols-1 lg:grid-cols-2">
-        <div className="relative px-6 lg:pb-20 pt-16 sm:pt-32 lg:static lg:px-8 lg:py-32 pb-56">
-          <div className="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
-            <div className="absolute inset-y-0 left-0 -z-10 w-full overflow-hidden bg-gray-100 ring-1 ring-text/10 lg:w-1/2 rounded-lg">
-              <div className="relative w-full h-full">
-                <Image
-                  src={Contact}
-                  alt={t('contactUs.contactUsImageAlt')}
-                  fill
-                  style={{ objectFit: "cover" }}
-                  className="w-full h-full"
-                />
-              </div>
-            </div>
-            <h2 className="text-3xl font-semibold tracking-tight text-text">
-              {t('contactUs.title')}
+    <div className="relative isolate bg-white mx-4 sm:mx-8 lg:mx-16 xl:mx-24 my-12 lg:my-36 rounded-lg overflow-hidden">
+      <div className="absolute inset-0 -z-10 w-full h-full bg-gray-100 ring-1 ring-text/10 rounded-lg overflow-hidden">
+        <Image
+          src={Contact}
+          alt={t("contactUs.contactUsImageAlt")}
+          layout="fill"
+          objectFit="cover"
+          className="w-full h-full"
+        />
+      </div>
+      <div className="relative px-4 sm:px-6 lg:px-8 py-12 lg:py-24">
+        <div className="grid gap-12 lg:grid-cols-2 lg:gap-16">
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight text-text">
+              {t("contactUs.title")}
             </h2>
-            <p className="mt-6 text-lg leading-8 text-gray-600">
-              {t('contactUs.description')}
+            <p className="mt-4 sm:mt-6 text-base sm:text-lg leading-6 text-gray-600">
+              {t("contactUs.description")}
             </p>
-            <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
-              <div className="flex gap-x-4">
-                <ul className="flex flex-col items-start list-unstyled space-y-4">
-                  <li className="flex flex-row gap-3 items-center">
-                    <FaPhone className="text-xl" />
-                    <p className="text-gray-500">{t('contactUs.phone')}</p>
-                  </li>
-                  <li className="flex flex-row gap-3 items-center">
-                    <IoMailSharp className="text-xl" />
-                    <p className="text-gray-500">{t('contactUs.email')}</p>
-                  </li>
-                  <li className="flex flex-row gap-1 items-center">
-                    <IoLocationSharp className="text-3xl" />
-                    <p className="text-gray-500">
-                      {t('contactUs.address')}
-                    </p>
-                  </li>
-                </ul>
+            <dl className="mt-8 space-y-4 text-base leading-7 text-gray-600">
+              <div className="flex flex-col gap-4">
+                <div className="flex items-center gap-3">
+                  <FaPhone className="text-xl" />
+                  <p className="text-gray-500">{t("contactUs.phone")}</p>
+                </div>
+                <div className="flex items-center gap-3">
+                  <IoMailSharp className="text-xl" />
+                  <p className="text-gray-500">{t("contactUs.email")}</p>
+                </div>
+                <div className="flex items-center gap-3">
+                  <IoLocationSharp className="text-2xl" />
+                  <p className="text-gray-500">{t("contactUs.address")}</p>
+                </div>
               </div>
             </dl>
           </div>
-        </div>
-        <form
-          className="px-6 pb-24 pt-20 sm:pb-32 lg:px-8 lg:py-32"
-          onSubmit={(e) => {
-            e.preventDefault();
-            handleSubmit();
-          }}
-        >
-          <div className="mx-auto max-w-xl lg:mr-0 lg:max-w-lg">
+          <form
+            className="space-y-6"
+            onSubmit={(e) => {
+              e.preventDefault();
+              handleSubmit();
+            }}
+          >
             <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
               <div>
                 <label className="block text-sm font-semibold leading-6 text-text">
-                  {t('contactUs.firstName')}
+                  {t("contactUs.firstName")}
                 </label>
                 <div className="mt-2.5">
                   <input
@@ -125,7 +117,7 @@ const ContactUs = () => {
               </div>
               <div>
                 <label className="block text-sm font-semibold leading-6 text-text">
-                  {t('contactUs.lastName')}
+                  {t("contactUs.lastName")}
                 </label>
                 <div className="mt-2.5">
                   <input
@@ -140,7 +132,7 @@ const ContactUs = () => {
               </div>
               <div className="sm:col-span-2">
                 <label className="block text-sm font-semibold leading-6 text-text">
-                  {t('contactUs.emailLabel')}
+                  {t("contactUs.emailLabel")}
                 </label>
                 <div className="mt-2.5">
                   <input
@@ -155,7 +147,7 @@ const ContactUs = () => {
               </div>
               <div className="sm:col-span-2">
                 <label className="block text-sm font-semibold leading-6 text-text">
-                  {t('contactUs.message')}
+                  {t("contactUs.message")}
                 </label>
                 <div className="mt-2.5">
                   <textarea
@@ -168,19 +160,19 @@ const ContactUs = () => {
                 </div>
               </div>
             </div>
-            <div className="mt-8 flex justify-end">
+            <div className="mt-8">
               <button
                 type="submit"
-                className="mt-5 inline-block rounded bg-text px-6 pb-2 pt-2.5 font-medium leading-normal text-neutral-50 shadow-dark-3 transition duration-150 ease-in-out hover:bg-neutral-700 hover:shadow-dark-2 focus:bg-neutral-700 focus:shadow-dark-2 focus:outline-none focus:ring-0 active:bg-neutral-900 active:shadow-dark-2 motion-reduce:transition-none"
+                className="inline-block rounded bg-text px-6 pb-2 pt-2.5 font-medium leading-normal text-neutral-50 shadow-dark-3 transition duration-150 ease-in-out hover:bg-neutral-700 hover:shadow-dark-2 focus:bg-neutral-700 focus:shadow-dark-2 focus:outline-none focus:ring-0 active:bg-neutral-900 active:shadow-dark-2"
               >
-                {t('contactUs.submitButton')}
+                {t("contactUs.submitButton")}
               </button>
             </div>
             {formStatus && (
               <p className="mt-4 text-sm text-gray-600">{formStatus}</p>
             )}
-          </div>
-        </form>
+          </form>
+        </div>
       </div>
     </div>
   );

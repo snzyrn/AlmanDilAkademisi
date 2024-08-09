@@ -10,7 +10,7 @@ const FadeUp = ({ children, className = "" }: FadeUpProps) => {
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const currentRef = ref.current;  
+    const currentRef = ref.current;
 
     const observer = new IntersectionObserver(
       ([entry]) => {
@@ -19,7 +19,7 @@ const FadeUp = ({ children, className = "" }: FadeUpProps) => {
           observer.unobserve(entry.target);
         }
       },
-      { threshold: 0.5 }
+      { threshold: 0.3 }
     );
 
     if (currentRef) {

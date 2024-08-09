@@ -6,7 +6,6 @@ import Footer from "@/components/Footer";
 import PageTransition from "@/components/PageTransition";
 import Head from "next/head";
 
-
 const roboto = Roboto({
   weight: ["400", "500", "700"],
   subsets: ["latin"],
@@ -23,7 +22,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="bg-background">
+    <html lang="en">
       <Head>
         <link rel="icon" href="/favicon.ico" />
       </Head>
