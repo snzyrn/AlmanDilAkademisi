@@ -23,55 +23,13 @@ import { useTranslation } from "react-i18next";
 import "./i18n.js";
 
 const LOGOS = [
-  <Image
-    src={A24_Logo}
-    width={200}
-    height={56}
-    alt="A24 Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={FSZ_Logo}
-    width={200}
-    height={56}
-    alt="FSZ Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={IBA_Logo}
-    width={200}
-    height={56}
-    alt="IBA Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={HPC_Logo}
-    width={200}
-    height={56}
-    alt="HPC Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={VICTORIA_Logo}
-    width={200}
-    height={56}
-    alt="VICTORIA Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={IBMG_Logo}
-    width={200}
-    height={56}
-    alt="IBMG Logo"
-    className="grayscale"
-  />,
-  <Image
-    src={ISBA_Logo}
-    width={200}
-    height={56}
-    alt="ISBA Logo"
-    className="grayscale"
-  />,
+  { src: A24_Logo, alt: "A24 Logo" },
+  { src: FSZ_Logo, alt: "FSZ Logo" },
+  { src: IBA_Logo, alt: "IBA Logo" },
+  { src: HPC_Logo, alt: "HPC Logo" },
+  { src: VICTORIA_Logo, alt: "VICTORIA Logo" },
+  { src: IBMG_Logo, alt: "IBMG Logo" },
+  { src: ISBA_Logo, alt: "ISBA Logo" },
 ];
 
 export default function Home() {
@@ -88,17 +46,29 @@ export default function Home() {
             {LOGOS.map((logo, index) => (
               <div
                 className="slide flex w-[250px] 2xl:w-[350px] items-center justify-center px-5"
-                key={`logo-${index}`} // Adding a unique key
+                key={`logo-${index}`}
               >
-                {logo}
+                <Image
+                  src={logo.src}
+                  width={200}
+                  height={56}
+                  alt={logo.alt}
+                  className="grayscale"
+                />
               </div>
             ))}
             {LOGOS.map((logo, index) => (
               <div
-                className="slide flex w-[250] 2xl:w-[350px] items-center justify-center px-5"
-                key={`logo-${index + LOGOS.length}`} // Adding a unique key
+                className="slide flex w-[250px] 2xl:w-[350px] items-center justify-center px-5"
+                key={`logo-${index + LOGOS.length}`}
               >
-                {logo}
+                <Image
+                  src={logo.src}
+                  width={200}
+                  height={56}
+                  alt={logo.alt}
+                  className="grayscale"
+                />
               </div>
             ))}
           </div>
