@@ -4,13 +4,14 @@
   "services": "Hizmetlerimiz",
   "courses": "Kurslarımız",
   "contact": "İletişim",
+  "gallery": "Foto Galeri",
   "contactPage": {
     "title": "İLETİŞİM",
     "description": "Dil okulumuz hakkında daha fazla bilgi almak, kayıt işlemleri veya diğer sorularınız için bizimle iletişime geçebilirsiniz. Size en kısa sürede geri dönüş yapmaktan memnuniyet duyarız.",
     "email": "E-posta",
     "emailAddress": "almandilakademisi@gmail.com",
     "location": "Konum",
-    "locationAddress": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "locationAddress": "Mimar Sinan, 2310. Sk. No:4, 09100 Efeler/Aydın",
     "phone": "Telefon",
     "phoneNumber": "+90 552 900 01 01"
   },
@@ -20,6 +21,10 @@
       "description": "Alman Dil Akademisi, dil öğrenme konusunda uzmanlaşmış bir eğitim kurumudur. Geniş kapsamlı dil kursları ve hizmetleriyle öne çıkan akademimiz, vize danışmanlığı, yurt dışı eğitim danışmanlığı, tercümanlık ve kurumsal eğitimler gibi alanlarda kapsamlı destek sunar. Öğrencilerimize uluslararası standartlarda eğitim imkanı sağlarken, akademik ve profesyonel hedeflerine ulaşmalarına yardımcı olur.",
       "buttonText": "Hakkımızda",
       "altText": "Hakkımızda"
+    },
+    "certificates": {
+      "title": "Sertifika Sınavlarına Bizimle Hazırlanın!",
+      "description": "Goethe, Telc, TestDaF ve diğer uluslararası kabul gören Almanca dil sertifikaları için uzman eğitmenlerimizle sınavlara hazırlanın. Her seviyeye uygun kurs programlarımızla, hedeflerinize ulaşmanıza yardımcı oluyoruz. Bu sertifikalar, Almanca dilinde yeterliliğinizi kanıtlayarak, Almanca konuşulan ülkelerdeki eğitim, kariyer ve göçmenlik süreçlerinde büyük avantajlar sağlar. Her seviyeye uygun olarak hazırladığımız kurs programlarımız, dil becerilerinizi geliştirmenize ve bu önemli sertifikaları alarak hedeflerinize ulaşmanıza yardımcı olur."
     },
     "careerSupport": {
       "title": "Alman Dil Akademisi İle Kariyerinizi Destekleyin",
@@ -59,6 +64,11 @@
     "classType": "Yüz yüze ve online sınıflarımız bulunmakta",
     "schedule": "Tarihler için bizimle iletişime geçebilirsiniz",
     "courseLevels": "Her kurs, alt iki kura (örneğin A1.1 ve A1.2 gibi) ayrılmaktadır",
+    "certificatesTitle": "Sertifika Eğitimlerimiz",
+    "certificates1": "Goethe Sınavı, Almanca dil yeterliliğini dünya çapında tanıyan ve çeşitli alanlarda büyük avantajlar sağlayan bir sınavdır. Akademik kariyer, iş başvuruları veya aile birleşimi gibi amaçlarla Almanca bilgilerini kanıtlamak isteyenler için kritik öneme sahiptir. Bu sınav, üniversite başvurularında, iş başvurularında ve resmi işlemlerde dil yeterliliğini kanıtlamak için yaygın olarak kullanılmaktadır.",
+    "certificates2": "Telc (The European Language Certificates), Almanca dil yeterliliğini uluslararası alanda kanıtlayan bir sınavdır. A1’den C2’ye kadar farklı seviyelerde sunulan bu sınavlar, dil becerilerinizi çeşitli alanlarda ölçer ve Avrupa genelinde geniş bir kabul görür. Telc sertifikası, Almanya’daki üniversitelere başvuru, iş başvuruları ve göçmenlik süreçlerinde resmi bir dil yeterlilik belgesi olarak kullanılır. Eğitim ve iş yaşamında dil becerilerinizi resmi olarak belgelendirmenizi sağlar.",
+    "certificates3": "TestDaF (Test Deutsch als Fremdsprache), Almanya'daki üniversitelerde eğitim almak isteyen yabancı öğrenciler için tasarlanmış bir dil sınavıdır. TestDaF, B2’den C1 seviyelerine kadar Almanca dil yeterliliğinizi ölçer ve Almanya’daki yükseköğretim kurumları tarafından geniş bir şekilde kabul edilir. Sınav, akademik ve profesyonel hedefleriniz için gerekli olan dil becerilerini değerlendirir ve Almanya'da yükseköğrenim görmek isteyen öğrencilere resmi bir dil yeterlilik belgesi sağlar.",
+    "courseTitle": "Almanca Kurslarımız",
     "course1": {
       "title": "Almanca A1 Kursu",
       "description": "Günlük yaşamda basit iletişim kurabilir, temel cümleleri ve ifadeleri kullanarak kendini ifade edebilir. Basit soruları anlayabilir ve cevaplayabilir. İş, aile, hobiler gibi konularda basit düzeyde bilgi alışverişi yapabilir; alışveriş yapabilir, restoranda sipariş verebilir ve temel yönlendirme sorularına cevap verebilir.",
@@ -96,11 +106,11 @@
     "description": "Dil Kursumuz olarak, dünya çapında iletişim kurabilmenin anahtarını sunuyoruz. Yılların verdiği tecrübe ve uzman kadromuzla, sizlere en iyi dil eğitimi deneyimini sunmayı amaçlıyoruz. Hizmetlerimiz, dil öğrenme sürecinizi en verimli ve etkili şekilde geçirmenizi sağlamak için titizlikle tasarlanmıştır. Ayrıca, Almanya'da lisans eğitimi almak isteyen öğrenciler için kapsamlı danışmanlık hizmetleri de sunuyoruz. Doğru üniversite ve bölüm seçimi, başvuru süreçleri ve kabul şartları hakkında uzman rehberlik sağlıyor, eğitim yolculuğunuzun her adımında yanınızda oluyoruz. Vize işlemleri, tercümanlık hizmetleri ve yurtdışı eğitim danışmanlığı ile de sürecinizi kolaylaştırıyoruz.",
     "jobOpportunities": {
       "title": "Almanya’da İş İmkanı",
-      "description": "Almanya'da lisans eğitimi almak isteyen öğrenciler için kapsamlı danışmanlık hizmetleri sunuyoruz. Doğru üniversite ve bölüm seçimi, başvuru süreçleri ve kabul şartları hakkında uzman rehberlik sağlıyoruz. Eğitim yolculuğunuzun her adımında yanınızdayız."
+      "description": "Almanya'nın geniş iş piyasasında başarılı bir kariyer için ihtiyacınız olan her şeyi sunuyoruz. Almanca dil eğitimi ve iş danışmanlığı hizmetlerimizle, Almanya’da iş bulma sürecinizi kolaylaştırıyoruz. Profesyonel destek ve stratejik rehberlik ile Almanya'da kariyer fırsatlarını değerlendirin!"
     },
     "languageSchool": {
       "title": "Almanya’da Dil Okulu",
-      "description": "Yurtdışında dil okulu, size öğreneceğiniz dili yaşama fırsatı sunar. Dilin sadece gramer yapısını ve kurallarını değil, aynı zamanda o dilin kültürünü de özümseme imkanı sağlar. Okulda edindiğiniz teorik bilgileri yeni insanlarla tanışarak, yeni yerler keşfederek pratiğe dökme fırsatını elde ederek ufkunuzu genişletebilirsiniz. Almanya’nın köklü dil okullarından birinin Türkiye partneri olarak hizmet veriyoruz."
+      "description": "Yurtdışında dil okulu, size öğreneceğiniz dili yaşama fırsatı sunar. Dilin sadece gramer yapısını ve kurallarını değil, aynı zamanda o dilin kültürünü de özümseme imkanı sağlar. Okulda edindiğiniz teorik bilgileri yeni insanlarla tanışarak, yeni yerler keşfederek pratiğe dökme fırsatını elde ederek ufkunuzu genişletebilirsiniz. Almanya’nın köklü dil okullarından birinin ortağı olarak sizlere hizmet veriyoruz."
     },
     "studyAbroadConsulting": {
       "title": "Yurt Dışı Eğitim Danışmanlığı",
@@ -123,6 +133,8 @@
     "heroImageAlt": "hakkımızda resmi",
     "title": "HAKKIMIZDA",
     "description": "Akademik yabancı dil sınavları konusunda Almanca dilinde kendi alanında uzman eğitmenler eşliğinde sınav hazırlık eğitimi veren bir kurumuz. Eğitmen kalitesi ve uzmanlık tecrübesi konusunda oldukça seçici davranırız. Kurumumuzda dijital entegrasyonu olan güncel kaynaklar ile dersler işlenmektedir; öğrencilerimize zengin bireysel çalışma kaynağı ve birebir geribildirim sağlamaktayız. İş etiğine önem verdiğimizden eğitim alan öğrencilerimize dil seviyeleri ve kurs ücretleri ile ilgili şeffaf bir bilgi verme politikası gütmekteyiz. Yüzyüze ve online eğitim vermekteyiz.",
+    "buttonText": "Almanya'daki Dil Okulumuz",
+    "addedDescription": "Almanya’daki köklü dil okulunun ortağı olarak, size Almanya'da da eğitim alma fırsatı sunuyoruz. Bu sayede, dil becerilerinizi yerinde geliştirme ve kültürel bağlamı doğrudan öğrenme şansını yakalayabilirsiniz. Aşağıdaki butona tıklayarak daha fazla bilgi alabilirsiniz.",
     "whyUs": {
       "title": "Neden Biz?",
       "description": "Almanca öğrenme yolculuğunuzda size en iyi deneyimi sunuyoruz. Uzman öğretmenlerimiz, etkili eğitim yöntemlerimiz ve kapsamlı destek hizmetlerimizle başarıya ulaşmanız için buradayız.",
@@ -143,7 +155,7 @@
   },
   "hero": {
     "title": "Aydın'daki En İyi Almanca Kursu",
-    "description": "Profesyonel öğretmenler eşliğinde dilinizi geliştirin. Almanya'daki yerleşim ve eğitim süreçlerinizde sizin yanınızdayız!",
+    "description": "Aydın'da Almanca'ya odaklanan tek kurs olarak, Almanya’daki yerleşim ve eğitim süreçlerinizde yanınızdayız. Profesyonel dil eğitimi ve kariyer danışmanlığıyla Almanya’da yeni kapılar aralıyoruz. Başarıya giden yolda yanınızdayız!",
     "contactButton": "Bizimle İletişime Geçin!",
     "arrowAlt": "Ok işareti",
     "heroImgAlt": "Hero Görseli"
@@ -153,7 +165,7 @@
     "description": "Mesajınızı bize iletmek için yan taraftaki formu kullanabilir ya da aşağıdaki iletişim bilgilerimizden bize ulaşabilirsiniz.",
     "phone": "+90 552 900 01 01",
     "email": "almandilakademisi@gmail.com",
-    "address": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "address": "Mimar Sinan, 2310. Sk. No:4, 09100 Efeler/Aydın",
     "contactImageAlt": "İletişim Görseli",
     "firstName": "İsim",
     "lastName": "Soyisim",
@@ -179,7 +191,7 @@
     "contact": "İletişim",
     "phone": "+90 552 900 01 01",
     "email": "almandilakademisi@gmail.com",
-    "address": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "address": "Mimar Sinan, 2310. Sk. No:4, 09100 Efeler/Aydın",
     "copyright": "Copyright ©",
     "companyName": "Alman Dil Akademisi"
   }

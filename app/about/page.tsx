@@ -27,10 +27,24 @@ const Page = () => {
         </div>
       </FadeUp>
       <main className="flex-grow p-4 md:p-8">
-        <div className="text-gray-500 text-base sm:text-lg md:text-xl text-center mt-6 sm:mt-10 px-4 md:px-8 lg:px-24">
+        <div className="text-gray-500 text-base sm:text-lg md:text-xl text-center mt-6 sm:mt-10 px-4 md:px-8 lg:px-20">
           <p>{t("aboutPage.description")}</p>
+          <p className="text-gray-500 text-base sm:text-lg md:text-xl mt-6 sm:mt-10 px-4 md:px-8 lg:px-20">
+            {t("aboutPage.addedDescription")}
+          </p>
         </div>
-        <div className="flex flex-col lg:flex-row items-center justify-center mt-10 lg:mt-28 mb-10 lg:mb-24 gap-4 lg:gap-5">
+        <div className="flex justify-center">
+          <button
+            type="button"
+            onClick={() =>
+              window.open("https://www.people4europe.com/", "_blank")
+            }
+            className="mt-5 inline-block rounded bg-text px-6 pb-2 pt-2.5 font-medium leading-normal text-neutral-50 shadow-dark-3 transition duration-150 ease-in-out hover:bg-neutral-700 hover:shadow-dark-2 focus:bg-neutral-700 focus:shadow-dark-2 focus:outline-none focus:ring-0 active:bg-neutral-900 active:shadow-dark-2 motion-reduce:transition-none"
+          >
+            {t("aboutPage.buttonText")}
+          </button>
+        </div>
+        <div className="flex flex-col lg:flex-row items-center justify-center mt-10 lg:mt-20 mb-10 lg:mb-24 gap-4 lg:gap-5">
           <div className="lg:w-1/2 w-full">
             <h2 className="font-medium text-2xl sm:text-3xl md:text-4xl">
               {t("aboutPage.whyUs.title")}

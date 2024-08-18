@@ -20,6 +20,9 @@ import Education from "../assets/icons/education.png";
 import Book from "../assets/icons/book.png";
 import Document from "../assets/icons/document.png";
 import { useTranslation } from "react-i18next";
+import Goethe from "../assets/logos/goethe.png";
+import Telc from "../assets/logos/telc.svg";
+import TestDaf from "../assets/logos/testdaf.png";
 import "./i18n.js";
 
 const LOGOS = [
@@ -97,6 +100,21 @@ export default function Home() {
           />
         </FadeUp>
         <CounterWidget />
+        <FadeUp className="mx-10 lg:mx-36 flex flex-col justify-center items-center mb-12">
+          <div className="w-full lg:mr-12 mt-12">
+            <h2 className="text-text font-medium text-4xl mb-5 mt-12">
+              {t("homePage.certificates.title")}
+            </h2>
+            <p className="text-gray-500 text-lg 2xl:text-xl">
+              {t("homePage.certificates.description")}
+            </p>
+            <div className="row flex justify-between items-center gap-24 mt-20 mx-12">
+              <Image src={Goethe} width={200} height={56} alt="goethe-logo" />
+              <Image src={Telc} width={200} height={56} alt="telc-logo" />
+              <Image src={TestDaf} width={200} height={56} alt="testdaf-logo" />
+            </div>
+          </div>
+        </FadeUp>
         <FadeUp className="mx-10 lg:mx-24 flex lg:flex-row flex-col justify-center items-center">
           <Image
             src={Student}

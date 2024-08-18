@@ -4,13 +4,14 @@
   "services": "Unsere Dienstleistungen",
   "courses": "Unsere Kurse",
   "contact": "Kontakt",
+  "gallery": "Fotogalerie",
   "contactPage": {
     "title": "KONTAKT",
     "description": "Für weitere Informationen über unsere Sprachschule, Anmeldungen oder andere Fragen können Sie uns kontaktieren. Wir freuen uns, Ihnen so schnell wie möglich zu antworten.",
     "email": "E-Mail",
     "emailAddress": "almandilakademisi@gmail.com",
     "location": "Standort",
-    "locationAddress": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "locationAddress": "Mimar Sinan, 2310. Sk. No:4, 09100 Efeler/Aydın",
     "phone": "Telefon",
     "phoneNumber": "+90 552 900 01 01"
   },
@@ -20,6 +21,10 @@
       "description": "Das Deutsch Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen aus, darunter Visaberatung, Beratung für das Studium im Ausland, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
       "buttonText": "Über uns",
       "altText": "Über uns"
+    },
+    "certificates": {
+      "title": "Bereiten Sie sich mit uns auf die Zertifikatsprüfungen vor!",
+      "description": "Bereiten Sie sich mit unseren erfahrenen Dozenten auf die Prüfungen für Goethe, Telc, TestDaF und andere international anerkannte Deutschzertifikate vor. Mit unseren Kursprogrammen, die für jedes Niveau geeignet sind, helfen wir Ihnen, Ihre Ziele zu erreichen. Diese Zertifikate belegen Ihre Deutschkenntnisse und bieten Ihnen erhebliche Vorteile in den Bereichen Bildung, Karriere und Migration in deutschsprachigen Ländern. Unsere maßgeschneiderten Kursprogramme für jedes Niveau unterstützen Sie dabei, Ihre Sprachkenntnisse zu verbessern und diese wichtigen Zertifikate zu erwerben, um Ihre Ziele zu verwirklichen."
     },
     "careerSupport": {
       "title": "Unterstützen Sie Ihre Karriere mit der Deutsch Akademie",
@@ -59,6 +64,11 @@
     "classType": "Wir bieten sowohl Präsenz- als auch Online-Kurse an",
     "schedule": "Für die Termine können Sie uns kontaktieren",
     "courseLevels": "Jeder Kurs ist in zwei Unterkurse unterteilt (z.B. A1.1 und A1.2)",
+    "certificatesTitle": "Unsere Zertifikatskurse",
+    "certificates1": "Die Goethe-Prüfung ist ein weltweit anerkanntes Zertifikat, das Deutschkenntnisse bescheinigt und in verschiedenen Bereichen große Vorteile bietet. Für Personen, die eine akademische Laufbahn anstreben, sich beruflich bewerben oder Deutschkenntnisse für Zwecke wie Familienzusammenführung nachweisen möchten, ist diese Prüfung von entscheidender Bedeutung. Sie wird häufig verwendet, um Deutschkenntnisse bei Universitätsbewerbungen, Jobbewerbungen und offiziellen Verfahren nachzuweisen.",
+    "certificates2": "Telc (The European Language Certificates) ist eine international anerkannte Prüfung, die Deutschkenntnisse auf verschiedenen Niveaus von A1 bis C2 bescheinigt. Diese Prüfungen messen Ihre Sprachkenntnisse in verschiedenen Bereichen und sind europaweit breit anerkannt. Das Telc-Zertifikat wird als offizieller Sprachnachweis bei Bewerbungen an deutschen Universitäten, Jobbewerbungen und in Einwanderungsverfahren verwendet. Es ermöglicht Ihnen, Ihre Sprachkenntnisse in Bildung und Beruf offiziell zu belegen.",
+    "certificates3": "TestDaF (Test Deutsch als Fremdsprache) ist eine Sprachprüfung, die für ausländische Studierende entwickelt wurde, die an deutschen Universitäten studieren möchten. Der TestDaF prüft Deutschkenntnisse auf den Niveaus B2 bis C1 und wird von Hochschulen in Deutschland weitgehend anerkannt. Die Prüfung bewertet die Sprachkenntnisse, die für Ihre akademischen und beruflichen Ziele erforderlich sind, und stellt ein offizielles Sprachzertifikat für Studierende dar, die in Deutschland studieren möchten.",
+    "courseTitle": "Unsere Deutschkurse",
     "course1": {
       "title": "Deutsch A1 Kurs",
       "description": "Kann einfache Kommunikation im Alltag führen, grundlegende Sätze und Ausdrücke verwenden, um sich auszudrücken. Kann einfache Fragen verstehen und beantworten. Kann einfache Informationen über Arbeit, Familie, Hobbys und andere Themen austauschen; einkaufen, in einem Restaurant bestellen und grundlegende Wegbeschreibung fragen.",
@@ -96,11 +106,11 @@
     "description": "Als Sprachschule bieten wir Ihnen den Schlüssel zur globalen Kommunikation. Mit jahrelanger Erfahrung und einem erfahrenen Team streben wir danach, Ihnen die beste Sprachausbildung zu bieten. Unsere Dienstleistungen sind sorgfältig gestaltet, um Ihren Lernprozess so effizient und effektiv wie möglich zu gestalten. Darüber hinaus bieten wir umfassende Beratungsdienste für Studierende an, die in Deutschland ein Bachelorstudium aufnehmen möchten. Wir bieten fachkundige Beratung bei der Wahl der richtigen Universität und des richtigen Studiengangs, bei Bewerbungsprozessen und Zulassungsvoraussetzungen und begleiten Sie in jedem Schritt Ihrer Bildungsreise. Wir erleichtern den Prozess auch durch Visa-Angelegenheiten, Dolmetschdienste und Auslandsausbildung Beratung.",
     "jobOpportunities": {
       "title": "Arbeitsmöglichkeiten in Deutschland",
-      "description": "Wir bieten umfassende Beratungsdienste für Studierende an, die in Deutschland ein Bachelorstudium aufnehmen möchten. Wir bieten fachkundige Beratung bei der Wahl der richtigen Universität und des richtigen Studiengangs, bei Bewerbungsprozessen und Zulassungsvoraussetzungen und begleiten Sie in jedem Schritt Ihrer Bildungsreise."
+      "description": "Wir bieten Ihnen alles, was Sie für eine erfolgreiche Karriere in Deutschland benötigen. Mit unserem Deutschkurs und unserer Berufswahlberatung erleichtern wir Ihnen die Jobsuche in Deutschland. Nutzen Sie unsere professionelle Unterstützung und strategische Beratung, um Ihre Karrierechancen in Deutschland optimal zu nutzen!"
     },
     "languageSchool": {
       "title": "Sprache Schule in Deutschland",
-      "description": "Ein Sprachkurs im Ausland bietet Ihnen die Gelegenheit, die Sprache zu leben. Es ermöglicht nicht nur das Verstehen der Grammatik und Regeln der Sprache, sondern auch das Eintauchen in die Kultur der Sprache. Sie können das theoretische Wissen, das Sie in der Schule erworben haben, durch das Kennenlernen neuer Menschen, das Entdecken neuer Orte und das praktische Anwenden erweitern. Wir arbeiten als Partner einer renommierten Sprachschule in Deutschland."
+      "description": "Ein Sprachkurs im Ausland bietet Ihnen die Gelegenheit, die Sprache zu leben. Es ermöglicht nicht nur das Verstehen der Grammatik und Regeln der Sprache, sondern auch das Eintauchen in die Kultur der Sprache. Sie können das theoretische Wissen, das Sie in der Schule erworben haben, durch das Kennenlernen neuer Menschen, das Entdecken neuer Orte und das praktische Anwenden erweitern. Als Partner einer der renommierten Sprachschulen Deutschlands stehen wir Ihnen zur Verfügung."
     },
     "studyAbroadConsulting": {
       "title": "Beratung für Studienaufenthalte im Ausland",
@@ -123,6 +133,8 @@
     "heroImageAlt": "Über uns Bild",
     "title": "ÜBER UNS",
     "description": "Wir sind eine Institution, die Vorbereitungskurse für akademische Sprachprüfungen in Deutsch mit erfahrenen Fachlehrern anbietet. Wir legen großen Wert auf die Qualität und Erfahrung unserer Lehrer. Unsere Kurse werden mit aktuellen, digital integrierten Ressourcen durchgeführt, und wir bieten unseren Schülern umfassende Einzelstudienressourcen und persönliches Feedback. Wir legen großen Wert auf Ethik und bieten transparente Informationen über Sprachstufen und Kursgebühren. Wir bieten sowohl Präsenz- als auch Online-Unterricht an.",
+    "buttonText": "Unsere Sprachschule in Deutschland",
+    "addedDescription": "Als Partner einer renommierten Sprachschule in Deutschland bieten wir Ihnen die Möglichkeit, auch in Deutschland eine Ausbildung zu absolvieren. So haben Sie die Chance, Ihre Sprachkenntnisse vor Ort zu verbessern und den kulturellen Kontext direkt zu erleben. Klicken Sie auf den folgenden Button, um weitere Informationen zu erhalten.",
     "whyUs": {
       "title": "Warum Wir?",
       "description": "Wir bieten Ihnen das beste Erlebnis auf Ihrer Reise, Deutsch zu lernen. Mit unseren erfahrenen Lehrern, effektiven Lehrmethoden und umfassender Unterstützung sind wir hier, um Ihnen zum Erfolg zu verhelfen.",
@@ -143,7 +155,7 @@
   },
   "hero": {
     "title": "Der Beste Deutschkurs in Aydın",
-    "description": "Verbessern Sie Ihre Sprachkenntnisse mit professionellen Lehrern. Wir unterstützen Sie bei Ihrem Aufenthalt und Ihrer Ausbildung in Deutschland!",
+    "description": "Als die einzige Sprachschule in Aydın, die sich auf Deutsch spezialisiert hat, stehen wir Ihnen bei Ihrem Ansiedlungs- und Bildungsprozess in Deutschland zur Seite. Mit professioneller Sprachschulung und Karriereberatung öffnen wir Ihnen neue Türen in Deutschland. Wir sind an Ihrer Seite auf dem Weg zum Erfolg!",
     "contactButton": "Kontaktieren Sie uns!",
     "arrowAlt": "Pfeil",
     "heroImgAlt": "Held Bild"
@@ -153,7 +165,7 @@
     "description": "Sie können das Formular auf der linken Seite verwenden, um uns Ihre Nachricht zu senden, oder Sie können uns über die folgenden Kontaktdaten erreichen.",
     "phone": "+90 552 900 01 01",
     "email": "almandilakademisi@gmail.com",
-    "address": "Mimar Sinan, 2310. Sk. Nr. 2, 09100 Efeler/Aydın",
+    "address": "Mimar Sinan, 2310. Sk. Nr. 4, 09100 Efeler/Aydın",
     "contactImageAlt": "Kontaktbild",
     "firstName": "Vorname",
     "lastName": "Nachname",
@@ -179,7 +191,7 @@
     "contact": "Kontakt",
     "phone": "+90 552 900 01 01",
     "email": "almandilakademisi@gmail.com",
-    "address": "Mimar Sinan, 2310. Sk. No:2, 09100 Efeler/Aydın",
+    "address": "Mimar Sinan, 2310. Sk. No:4, 09100 Efeler/Aydın",
     "copyright": "Urheberrecht ©",
     "companyName": "Deutsch Sprachakademie"
   }

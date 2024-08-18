@@ -8,8 +8,8 @@ const Hero = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="mt-10 flex flex-row justify-center">
-      <div className="w-2/3 lg:w-1/3 lg:pl-12 2xl:w-1/4 lg:block">
+    <div className="mt-10 flex flex-row justify-center lg:mx-20">
+      <div className="w-2/3 lg:w-1/2 lg:pl-12 lg:block">
         <h2 className="text-text font-medium text-5xl mb-5 mt-20 2xl:text-6xl">
           {t("hero.title")}
         </h2>

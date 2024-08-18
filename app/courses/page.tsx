@@ -7,14 +7,11 @@ import { HiUserGroup } from "react-icons/hi2";
 import { ImBook } from "react-icons/im";
 import { FaClock } from "react-icons/fa6";
 import { IoIosArrowDroprightCircle } from "react-icons/io";
-import Student from "../../assets/course/student-1.png";
-import Student2 from "../../assets/course/student-2.jpeg";
-import Student3 from "../../assets/course/student-3.png";
-import Student4 from "../../assets/course/student-4.png";
-import Student5 from "../../assets/course/student-5.png";
-import Student6 from "../../assets/course/student-6.png";
 import { useTranslation } from "react-i18next";
 import FadeUp from "@/components/FadeUp";
+import Goethe from "../../assets/logos/goethe.png";
+import Telc from "../../assets/logos/telc.svg";
+import TestDaf from "../../assets/logos/testdaf.png";
 
 import "../i18n.js";
 
@@ -66,7 +63,46 @@ const Page = () => {
             </p>
           </div>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-20 mb-24 w-full max-w-screen-lg">
+        <div className="flex flex-col my-10 mx-20 justify-center items-center">
+          <h3 className="text-text text-3xl lg:text-start font-medium 2xl:text-2xl">
+            {t("coursesPage.certificatesTitle")}
+          </h3>
+          <div className="flex flex-row gap-5 justify-center items-center">
+            <Image src={Goethe} width={200} alt="goethe-logo" />
+            <div className="flex flex-col">
+              <h2 className="text-text font-medium text-xl mb-5 mt-12">
+                Goethe
+              </h2>
+              <p className="text-gray-500 text-lg 2xl:text-xl">
+                {t("coursesPage.certificates1")}
+              </p>
+            </div>
+          </div>
+          <div className="flex flex-row gap-5 justify-center items-center">
+            <Image src={Telc} width={200} alt="telc-logo" />
+            <div className="flex flex-col">
+              <h2 className="text-text font-medium text-xl mb-5 mt-12">Telc</h2>
+              <p className="text-gray-500 text-lg 2xl:text-xl">
+                {t("coursesPage.certificates2")}
+              </p>
+            </div>
+          </div>
+          <div className="flex flex-row gap-5 justify-center items-center">
+            <Image src={TestDaf} width={700} alt="testdaf-logo" />
+            <div className="flex flex-col">
+              <h2 className="text-text font-medium text-xl mb-5 mt-12">
+                TestDaf
+              </h2>
+              <p className="text-gray-500 text-lg 2xl:text-xl">
+                {t("coursesPage.certificates3")}
+              </p>
+            </div>
+          </div>
+        </div>
+        <h3 className="text-text text-3xl lg:text-start font-medium 2xl:text-2xl">
+          {t("coursesPage.courseTitle")}
+        </h3>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-10 mb-24 w-full max-w-screen-lg">
           {[1, 2, 3, 4, 5, 6].map((index) => (
             <div
               key={index}
