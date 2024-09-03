@@ -67,8 +67,13 @@ const Page = () => {
           <h3 className="text-text text-3xl lg:text-start font-medium 2xl:text-2xl">
             {t("coursesPage.certificatesTitle")}
           </h3>
-          <div className="flex flex-row gap-5 justify-center items-center">
-            <Image src={Goethe} width={200} alt="goethe-logo" />
+          <div className="flex lg:flex-row flex-col gap-5 justify-center items-center">
+            <Image
+              src={Goethe}
+              width={200}
+              alt="goethe-logo"
+              className="hidden lg:block"
+            />
             <div className="flex flex-col">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">
                 Goethe
@@ -78,8 +83,13 @@ const Page = () => {
               </p>
             </div>
           </div>
-          <div className="flex flex-row gap-5 justify-center items-center">
-            <Image src={Telc} width={200} alt="telc-logo" />
+          <div className="flex lg:flex-row flex-col gap-5 justify-center items-center">
+            <Image
+              src={Telc}
+              width={200}
+              alt="telc-logo"
+              className="hidden lg:block"
+            />
             <div className="flex flex-col">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">Telc</h2>
               <p className="text-gray-500 text-lg 2xl:text-xl">
@@ -87,9 +97,14 @@ const Page = () => {
               </p>
             </div>
           </div>
-          <div className="flex flex-row gap-5 justify-center items-center">
-            <Image src={TestDaf} width={700} alt="testdaf-logo" />
-            <div className="flex flex-col">
+          <div className="flex lg:flex-row flex-col justify-center items-center">
+            <Image
+              src={TestDaf}
+              width={200}
+              alt="testdaf-logo"
+              className="hidden lg:block"
+            />
+            <div className="flex flex-col lg:ml-5">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">
                 TestDaf
               </h2>

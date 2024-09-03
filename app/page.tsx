@@ -41,9 +41,7 @@ export default function Home() {
   return (
     <main className="relative bg-white flex justify-center items-center flex-col overflow-hidden">
       <div className="w-full">
-        <FadeUp>
-          <Hero />
-        </FadeUp>
+        <Hero />
         <div className="relative lg:my-8 w-full my-20 lg:block p-5 px-10 overflow-hidden bg-white before:absolute before:left-0 before:top-0 before:z-[2] before:h-full before:w-[100px] before:bg-[linear-gradient(to_right,white_0%,rgba(255,255,255,0)_100%)] before:content-[''] after:absolute after:right-0 after:top-0 after:z-[2] after:h-full after:w-[100px] after:-scale-x-100 after:bg-[linear-gradient(to_right,white_0%,rgba(255,255,255,0)_100%)] after:content-['']">
           <div className="animate-infinite-slider flex w-[calc(333px*14)]">
             {LOGOS.map((logo, index) => (
@@ -57,6 +55,7 @@ export default function Home() {
                   height={56}
                   alt={logo.alt}
                   className="grayscale"
+                  style={{ width: "auto", height: "auto" }}
                 />
               </div>
             ))}
@@ -71,6 +70,7 @@ export default function Home() {
                   height={56}
                   alt={logo.alt}
                   className="grayscale"
+                  style={{ width: "auto", height: "auto" }}
                 />
               </div>
             ))}
@@ -108,10 +108,20 @@ export default function Home() {
             <p className="text-gray-500 text-lg 2xl:text-xl">
               {t("homePage.certificates.description")}
             </p>
-            <div className="row flex justify-between items-center gap-24 mt-20 mx-12">
-              <Image src={Goethe} width={200} height={56} alt="goethe-logo" />
-              <Image src={Telc} width={200} height={56} alt="telc-logo" />
-              <Image src={TestDaf} width={200} height={56} alt="testdaf-logo" />
+            <div className="flex lg:flex-row flex-col justify-between items-center gap-24 mt-20 mx-12">
+              <Image
+                src={Goethe}
+                width={180}
+                alt="goethe-logo"
+                style={{ width: "auto", height: "auto" }}
+              />
+              <Image src={Telc} width={180} alt="telc-logo" />
+              <Image
+                src={TestDaf}
+                width={200}
+                alt="testdaf-logo"
+                style={{ width: "auto", height: "auto" }}
+              />
             </div>
           </div>
         </FadeUp>

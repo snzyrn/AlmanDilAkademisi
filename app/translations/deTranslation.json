@@ -56,6 +56,9 @@
       "altText": "Kurse entdecken"
     }
   },
+  "galleryPage": {
+    "title": "Fotogalerie"
+  },
   "coursesPage": {
     "heroImageAlt": "Bild über Kurse",
     "title": "Unsere Kurse",

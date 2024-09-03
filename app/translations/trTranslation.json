@@ -56,6 +56,9 @@
       "altText": "Kursları Keşfet"
     }
   },
+  "galleryPage": {
+    "title": "Foto Galeri"
+  },
   "coursesPage": {
     "heroImageAlt": "kurslar hakkında resim",
     "title": "Kurslarımız",
