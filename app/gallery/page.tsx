@@ -25,7 +25,7 @@ const Page = () => {
           </h1>
         </div>
       </FadeUp>
-      <main className="flex-grow p-4 flex flex-col items-center mx-20">
+      <main className="flex-grow p-4 flex flex-col items-center lg:mx-20">
         <Script
           src="https://cdn.lightwidget.com/widgets/lightwidget.js"
           strategy="lazyOnload"
