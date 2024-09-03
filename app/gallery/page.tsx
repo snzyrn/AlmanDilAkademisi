@@ -25,13 +25,13 @@ const Page = () => {
         </div>
       </FadeUp>
       <main className="flex-grow p-4 flex flex-col items-center mx-20">
-        {/*  <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+        <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
         <iframe
-          src="//lightwidget.com/widgets/101a299e5e4a53469d85a9cce8fcb803.html"
+          src="//lightwidget.com/widgets/6e09ec25de395fdb8a6b01b251083c5e.html"
           scrolling="no"
           allowTransparency={true}
           className="w-full border-0 overflow-hidden"
-        ></iframe> */}
+        ></iframe>
       </main>
     </div>
   );
