@@ -40,7 +40,7 @@ const Page = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-10 w-full max-w-4xl justify-center">
           <div className="flex items-center">
             <HiUserGroup className="text-3xl" />
-            <p className="text-gray-500 2xl:text-xl pl-5">
+            <p className="text-gray-500 2xl:text-xl pl-5 ">
               {t("coursesPage.classSize")}
             </p>
           </div>
@@ -57,7 +57,7 @@ const Page = () => {
             </p>
           </div>
           <div className="flex items-center">
-            <IoIosArrowDroprightCircle className="text-3xl" />
+            <IoIosArrowDroprightCircle className="text-3xl flex-shrink-0 -ml-0.5" />
             <p className="text-gray-500 2xl:text-xl pl-5">
               {t("coursesPage.courseLevels")}
             </p>
@@ -70,15 +70,15 @@ const Page = () => {
           <div className="flex lg:flex-row flex-col gap-5 justify-center items-center">
             <Image
               src={Goethe}
-              width={200}
+              width={180}
               alt="goethe-logo"
               className="hidden lg:block"
             />
-            <div className="flex flex-col">
+            <div className="flex flex-col lg:ml-3">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">
                 Goethe
               </h2>
-              <p className="text-gray-500 text-lg 2xl:text-xl">
+              <p className="text-gray-500 text-lg 2xl:text-xl m">
                 {t("coursesPage.certificates1")}
               </p>
             </div>
@@ -86,11 +86,11 @@ const Page = () => {
           <div className="flex lg:flex-row flex-col gap-5 justify-center items-center">
             <Image
               src={Telc}
-              width={200}
+              width={170}
               alt="telc-logo"
               className="hidden lg:block"
             />
-            <div className="flex flex-col">
+            <div className="flex flex-col lg:ml-5">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">Telc</h2>
               <p className="text-gray-500 text-lg 2xl:text-xl">
                 {t("coursesPage.certificates2")}
@@ -104,7 +104,7 @@ const Page = () => {
               alt="testdaf-logo"
               className="hidden lg:block"
             />
-            <div className="flex flex-col lg:ml-5">
+            <div className="flex flex-col lg:ml-3">
               <h2 className="text-text font-medium text-xl mb-5 mt-12">
                 TestDaf
               </h2>

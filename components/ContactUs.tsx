@@ -85,8 +85,8 @@ const ContactUs = () => {
                   <IoMailSharp className="text-xl" />
                   <p className="text-gray-500">{t("contactUs.email")}</p>
                 </div>
-                <div className="flex items-center gap-3">
-                  <IoLocationSharp className="text-2xl" />
+                <div className="flex items-center gap-3 -ml-0.5">
+                  <IoLocationSharp className="text-2xl flex-shrink-0" />
                   <p className="text-gray-500">{t("contactUs.address")}</p>
                 </div>
               </div>
