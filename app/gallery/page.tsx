@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Script from "next/script";
 import Courses from "../../assets/gallery.jpg";
 import FadeUp from "@/components/FadeUp";
 import { useTranslation } from "react-i18next";
@@ -14,7 +15,7 @@ const Page = () => {
       <FadeUp className="relative w-full h-72">
         <Image
           src={Courses}
-          alt="coursesPage.heroImageAlt"
+          alt={t("coursesPage.heroImageAlt")}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
@@ -25,7 +26,10 @@ const Page = () => {
         </div>
       </FadeUp>
       <main className="flex-grow p-4 flex flex-col items-center mx-20">
-        <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+        <Script
+          src="https://cdn.lightwidget.com/widgets/lightwidget.js"
+          strategy="lazyOnload"
+        />
         <iframe
           src="//lightwidget.com/widgets/6e09ec25de395fdb8a6b01b251083c5e.html"
           scrolling="no"
