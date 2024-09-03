@@ -210,6 +210,15 @@ const NavBar = () => {
             </li>
             <li>
               <Link
+                href="/gallery"
+                className="text-text text-lg hover:text-red"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                {t("gallery")}
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/contact"
                 className="text-text text-lg hover:text-red"
                 onClick={() => setIsMenuOpen(false)}
