@@ -31,10 +31,11 @@ const Page = () => {
           strategy="lazyOnload"
         />
         <iframe
-          src="//lightwidget.com/widgets/6e09ec25de395fdb8a6b01b251083c5e.html"
+          src="https://cdn.lightwidget.com/widgets/6e09ec25de395fdb8a6b01b251083c5e.html"
           scrolling="no"
           allowTransparency={true}
-          className="w-full border-0 overflow-hidden"
+          className="lightwidget-widget"
+          style={{ width: "100%", border: "0", overflow: "hidden" }}
         ></iframe>
       </main>
     </div>
