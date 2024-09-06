@@ -32,7 +32,7 @@ const Page = () => {
         </div>
         <div className="flex justify-center"></div>
         <div className="flex flex-col lg:flex-row items-center justify-center mt-10 lg:mt-20 mb-10 lg:mb-24 gap-4 lg:gap-5">
-          <div className="lg:w-1/2 w-full">
+          <div className=" w-full">
             <h2 className="font-medium text-2xl sm:text-3xl md:text-4xl">
               {t("aboutPage.whyUs.title")}
             </h2>
@@ -41,7 +41,7 @@ const Page = () => {
             </p>
             <div className="flex flex-col  items-start gap-4 mt-4">
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-4xl" />
+                <FaRegCheckCircle className="text-green text-3xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.expertTeam.label")}
@@ -50,7 +50,7 @@ const Page = () => {
                 </p>
               </div>
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-6xl" />
+                <FaRegCheckCircle className="text-green text-5xl 2xl:text-3xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.flexiblePrograms.label")}
@@ -59,7 +59,7 @@ const Page = () => {
                 </p>
               </div>
               <div className="flex items-start gap-3 md:gap-5">
-                <FaRegCheckCircle className="text-green text-5xl" />
+                <FaRegCheckCircle className="text-green text-4xl 2xl:text-3xl" />
                 <p className="text-gray-500">
                   <span className="font-medium">
                     {t("aboutPage.whyUs.comprehensiveSupport.label")}
