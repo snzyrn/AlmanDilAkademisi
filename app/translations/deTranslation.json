@@ -18,17 +18,17 @@
   "homePage": {
     "whoWeAre": {
       "title": "Wer sind wir?",
-      "description": "Das Deutsch Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen aus, darunter Visaberatung, Beratung für das Studium im Ausland, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
+      "description": "Die Deutsch Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen wie z.B. Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträge, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
       "buttonText": "Über uns",
       "altText": "Über uns"
     },
     "certificates": {
       "title": "Bereiten Sie sich mit uns auf die Zertifikatsprüfungen vor!",
-      "description": "Bereiten Sie sich mit unseren erfahrenen Dozenten auf die Prüfungen für Goethe, Telc, TestDaF und andere international anerkannte Deutschzertifikate vor. Mit unseren Kursprogrammen, die für jedes Niveau geeignet sind, helfen wir Ihnen, Ihre Ziele zu erreichen. Diese Zertifikate belegen Ihre Deutschkenntnisse und bieten Ihnen erhebliche Vorteile in den Bereichen Bildung, Karriere und Migration in deutschsprachigen Ländern. Unsere maßgeschneiderten Kursprogramme für jedes Niveau unterstützen Sie dabei, Ihre Sprachkenntnisse zu verbessern und diese wichtigen Zertifikate zu erwerben, um Ihre Ziele zu verwirklichen."
+      "description": "Bereiten Sie sich mit unseren erfahrenen Dozent auf die Prüfungen für Goethe, Telc, TestDaF und andere international anerkannte Deutschzertifikate vor. Mit unseren Kursprogrammen, die für jedes Niveau geeignet sind, helfen wir Ihnen, Ihre Ziele zu erreichen. Diese Zertifikate belegen Ihre Deutschkenntnisse und bieten Ihnen erhebliche Vorteile in den Bereichen Bildung, Karriere und Migration in deutschsprachigen Ländern. Unsere maßgeschneiderten Kursprogramme für jedes Niveau unterstützen Sie dabei, Ihre Sprachkenntnisse zu verbessern und diese wichtigen Zertifikate zu erwerben, um Ihre Ziele zu verwirklichen."
     },
     "careerSupport": {
       "title": "Unterstützen Sie Ihre Karriere mit der Deutsch Akademie",
-      "description": "Als Deutsch Akademie sind wir überall dort, wo Sie sind, mit Visaberatung, Beratung für das Studium im Ausland, Dolmetschen und betrieblichen Schulungen. Mit unserem hybriden Bildungsmodell bieten wir die langjährige Erfahrung der Sprachschule in Deutschland sowohl vor Ort als auch online an.",
+      "description": "Als Deutsch Akademie sind wir überall dort, wo Sie sind, mit Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträgen, Dolmetschen und betrieblichen Schulungen. Mit unserem hybriden Bildungsmodell bieten wir die langjährige Erfahrung der Sprachschule in Deutschland sowohl vor Ort als auch online an.",
       "buttonText": "Unsere Dienstleistungen",
       "altText": "Karriere Unterstützung"
     },
@@ -129,7 +129,7 @@
     },
     "translation": {
       "title": "Übersetzungsdienst",
-      "description": "Unsere erfahrenen und professionellen vereidigten Übersetzer bieten Übersetzungen aller offiziellen Dokumente von Deutsch auf Türkisch und von Türkisch auf Deutsch an. Diese werden in Zusammenarbeit mit allen Notaren in Aydın durchgeführt."
+      "description": "Unsere erfahrenen und professionellen vereidigten Übersetzer und Dolmetscher bieten Übersetzungen aller offiziellen Dokumente von Deutsch auf Türkisch und von Türkisch auf Deutsch an. Diese werden in Zusammenarbeit mit allen Notaren in Aydın durchgeführt."
     }
   },
   "aboutPage": {
