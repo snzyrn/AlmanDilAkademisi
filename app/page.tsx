@@ -109,19 +109,9 @@ export default function Home() {
               {t("homePage.certificates.description")}
             </p>
             <div className="flex lg:flex-row flex-col justify-between items-center gap-24 mt-20 mx-12">
-              <Image
-                src={Goethe}
-                width={180}
-                alt="goethe-logo"
-                style={{ width: "auto", height: "auto" }}
-              />
+              <Image src={Goethe} width={180} alt="goethe-logo" />
               <Image src={Telc} width={180} alt="telc-logo" />
-              <Image
-                src={TestDaf}
-                width={200}
-                alt="testdaf-logo"
-                style={{ width: "auto", height: "auto" }}
-              />
+              <Image src={TestDaf} width={200} alt="testdaf-logo" />
             </div>
           </div>
         </FadeUp>
