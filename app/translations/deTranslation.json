@@ -18,7 +18,7 @@
   "homePage": {
     "whoWeAre": {
       "title": "Wer sind wir?",
-      "description": "Die Deutsch Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen wie z.B. Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträge, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
+      "description": "Die Deutsche Akademie ist eine Bildungseinrichtung, die auf Sprachlernen spezialisiert ist. Unsere Akademie zeichnet sich durch umfassende Sprachkurse und Dienstleistungen wie z.B. Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträge, Dolmetschen und betriebliche Schulungen. Wir bieten unseren Schülern die Möglichkeit, eine internationale Ausbildung zu erhalten und ihre akademischen und beruflichen Ziele zu erreichen.",
       "buttonText": "Über uns",
       "altText": "Über uns"
     },
@@ -27,8 +27,8 @@
       "description": "Bereiten Sie sich mit unseren erfahrenen Dozent auf die Prüfungen für Goethe, Telc, TestDaF und andere international anerkannte Deutschzertifikate vor. Mit unseren Kursprogrammen, die für jedes Niveau geeignet sind, helfen wir Ihnen, Ihre Ziele zu erreichen. Diese Zertifikate belegen Ihre Deutschkenntnisse und bieten Ihnen erhebliche Vorteile in den Bereichen Bildung, Karriere und Migration in deutschsprachigen Ländern. Unsere maßgeschneiderten Kursprogramme für jedes Niveau unterstützen Sie dabei, Ihre Sprachkenntnisse zu verbessern und diese wichtigen Zertifikate zu erwerben, um Ihre Ziele zu verwirklichen."
     },
     "careerSupport": {
-      "title": "Unterstützen Sie Ihre Karriere mit der Deutsch Akademie",
-      "description": "Als Deutsch Akademie sind wir überall dort, wo Sie sind, mit Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträgen, Dolmetschen und betrieblichen Schulungen. Mit unserem hybriden Bildungsmodell bieten wir die langjährige Erfahrung der Sprachschule in Deutschland sowohl vor Ort als auch online an.",
+      "title": "Unterstützen Sie Ihre Karriere mit der Deutsche Akademie",
+      "description": "Als Deutsche Akademie sind wir überall dort, wo Sie sind, mit Visaberatung, Beratung für das Studium im Ausland, Übersetzungsaufträgen, Dolmetschen und betrieblichen Schulungen. Mit unserem hybriden Bildungsmodell bieten wir die langjährige Erfahrung der Sprachschule in Deutschland sowohl vor Ort als auch online an.",
       "buttonText": "Unsere Dienstleistungen",
       "altText": "Karriere Unterstützung"
     },
@@ -62,7 +62,7 @@
   "coursesPage": {
     "heroImageAlt": "Bild über Kurse",
     "title": "Unsere Kurse",
-    "description": "Die Deutsch Akademie bietet ein umfassendes Programm an Deutschkursen, das für alle gedacht ist, die die Sprache lernen möchten. Unsere Kurse reichen von Anfängern bis hin zu fortgeschrittenen Niveaus und konzentrieren sich auf Grammatik, Sprechpraxis, Lese- und Schreibfähigkeiten. Unsere erfahrenen Lehrer, interaktives Unterrichtsmaterial und kleine Klassengruppen schaffen eine effektive Lernumgebung. Neben der deutschen Sprache bieten unsere Kurse auch die Möglichkeit, etwas über die deutsche Kultur und Geschichte zu erfahren, sodass unsere Schüler den Lernprozess intensiv erleben können.",
+    "description": "Die Deutsche Akademie bietet ein umfassendes Programm an Deutschkursen, das für alle gedacht ist, die die Sprache lernen möchten. Unsere Kurse reichen von Anfängern bis hin zu fortgeschrittenen Niveaus und konzentrieren sich auf Grammatik, Sprechpraxis, Lese- und Schreibfähigkeiten. Unsere erfahrenen Lehrer, interaktives Unterrichtsmaterial und kleine Klassengruppen schaffen eine effektive Lernumgebung. Neben der deutschen Sprache bieten unsere Kurse auch die Möglichkeit, etwas über die deutsche Kultur und Geschichte zu erfahren, sodass unsere Schüler den Lernprozess intensiv erleben können.",
     "classSize": "Unsere Klassen bestehen aus 8-12 Personen",
     "classType": "Wir bieten sowohl Präsenz- als auch Online-Kurse an",
     "schedule": "Für die Termine können Sie uns kontaktieren",
@@ -112,7 +112,7 @@
       "description": "Wir bieten Ihnen alles, was Sie für eine erfolgreiche Karriere in Deutschland benötigen. Mit unserem Deutschkurs und unserer Berufswahlberatung erleichtern wir Ihnen die Jobsuche in Deutschland. Nutzen Sie unsere professionelle Unterstützung und strategische Beratung, um Ihre Karrierechancen in Deutschland optimal zu nutzen!"
     },
     "languageSchool": {
-      "title": "Sprache Schule in Deutschland",
+      "title": "Sprachschule in Deutschland",
       "description": "Ein Sprachkurs im Ausland bietet Ihnen die Gelegenheit, die Sprache zu leben. Es ermöglicht nicht nur das Verstehen der Grammatik und Regeln der Sprache, sondern auch das Eintauchen in die Kultur der Sprache. Sie können das theoretische Wissen, das Sie in der Schule erworben haben, durch das Kennenlernen neuer Menschen, das Entdecken neuer Orte und das praktische Anwenden erweitern. Als Partner einer der renommierten Sprachschulen Deutschlands stehen wir Ihnen zur Verfügung."
     },
     "studyAbroadConsulting": {
@@ -139,7 +139,7 @@
     "buttonText": "Unsere Sprachschule in Deutschland",
     "addedDescription": "Als Partner einer renommierten Sprachschule in Deutschland bieten wir Ihnen die Möglichkeit, auch in Deutschland eine Ausbildung zu absolvieren. So haben Sie die Chance, Ihre Sprachkenntnisse vor Ort zu verbessern und den kulturellen Kontext direkt zu erleben. Klicken Sie auf den folgenden Button, um weitere Informationen zu erhalten.",
     "whyUs": {
-      "title": "Warum Wir?",
+      "title": "Warum wir?",
       "description": "Wir bieten Ihnen das beste Erlebnis auf Ihrer Reise, Deutsch zu lernen. Mit unseren erfahrenen Lehrern, effektiven Lehrmethoden und umfassender Unterstützung sind wir hier, um Ihnen zum Erfolg zu verhelfen.",
       "expertTeam": {
         "label": "Expertenteam:",
